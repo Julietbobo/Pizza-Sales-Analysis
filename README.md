@@ -1,8 +1,8 @@
 # Pizza Sales Analysis
 ### Project over_view.
-This is an analysis aimed at gaining insights into employees' preference of working from home or working from the office, employee absenteeism and the number of paid and sick leaves taken. The aim is to increase productivity, improve employee wellness and resource utilization. 
-![Screenshot (24)](https://github.com/user-attachments/assets/a2d18c75-efa2-444c-98dd-5c75731dd8b5)
+The project aims to analyze pizza sales and draw actionable insights that will help drive sales and increase profits
 
+![Screenshot (35)](https://github.com/user-attachments/assets/90b37c79-1e32-4e47-ba8f-da4fc33cb0eb)
 
 ## Table of contents
 1. [Data Source](#data-source)
@@ -15,21 +15,20 @@ This is an analysis aimed at gaining insights into employees' preference of work
 8. [Recommendations](#recommendations)
 
 ### Data Source
-The data is sourced from an excel file obtained from a youtube channel: AttenanceSheet2022.xlsx for May to June 2022.
+The data is sourced from a CSV file from a youtube channel: pizza_sales.csv.
 
 ### Tools
-- Excel
-   - Power Query for data cleaning, data wrangling and data transformation.
+
 - Power Bi - Visualization.
 
 ### Data Preparation
 - Data loading and inspection
-- Change of data types
-- Unpivoting columns
-- Replacing values
-- Creation of functions to reuse the applied steps for each month.
-- Creation of parameters based on the month of the data
-- Visualization
+- Determine the KPIs
+  - Total revenue
+  - 
+   
+-Creating measures for the KPIs.
+
 
 
 ### Exploratory Data Analysis
