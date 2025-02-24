@@ -29,7 +29,7 @@ The data is sourced from a CSV file from a youtube channel: pizza_sales.csv.
   - Total pizzas sold
   - Total orders
   - Average quantity per order
-- Also determine the top N pizzas by orders, revenue and quantity sold
+- Also determine the top and bottom 5 pizzas by orders, revenue and quantity sold
 
 ### Data Scope
 - The data runs from 1st January 2015 to 31st December 2015 with 49,000 rows of data.
