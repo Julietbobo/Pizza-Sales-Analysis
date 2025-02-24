@@ -26,7 +26,7 @@ The data is sourced from a CSV file from a youtube channel: pizza_sales.csv.
 - Determine the KPIs
   - Total revenue
   - Average price per order
-  - Total pizzas sols
+  - Total pizzas sold
   - Total orders
   - Average quantity per order
 - Also determine the top N pizzas by orders, revenue and quantity sold
