@@ -48,7 +48,7 @@ The data is sourced from a CSV file from a youtube channel: pizza_sales.csv.
 - Instead of doing a whole year trend analysis I did a weekly and hourly trend analysis as this would be more useful in showing days and hours that have more sales than others. For the weekly trend I used a combo chart to show revenues vs orders per day and for the hourly trend I used a line chart.
 - I used a pie chart to show revenue by pizza_category and pizza_size and a funnel chart to show quantity sold by pizza category.
 - For the top N pizzas by orders, revenue and quantity sold I went for a bar chart since it would result in a clean visual.
-- I created a button to navigate bewteen two pages the top/bottom pizzas page and the home page.
+- I created a button to navigate between two pages the top/bottom pizzas page and the home page.
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/3a6256c4-fe7e-4ac4-84c9-f6818c0b407c)
 
